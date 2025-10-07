@@ -1,6 +1,8 @@
 #!/bin/bash
 # This script calculates size of each SRR file and returns total size of all files
 # This will tell you how much space you need for downloading your data
+# Packages needed:
+# - ncbi-vdb
 
 SRR_LIST="$1"  # your CSV or TXT file with SRRs
 TOTAL_SIZE=0   # initialize total size in bytes
