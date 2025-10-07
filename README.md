@@ -9,5 +9,5 @@ Exploring Lineage-Symbiont Associations in Depth Generalist Coral
 <br>🔹 Read alignment
 <br>🔹 Variant calling
 <br>🔹 Data visualization in R
-<br>🔹 Scientific writing
+<br>🔹 Learning cool stuff 
 
