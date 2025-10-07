@@ -8,13 +8,9 @@
 PRJNA=$1     #PRJNA accession number
 OUTPUT=$2    #output file name .csv
 
-#######
-#STEP 1
-#######
+# fetch data
 esearch -db sra -query $PRJNA | efetch -format runinfo > $OUTPUT
 
-#######
-#STEP 2
-#######
+# Save SRR numbers in seperate 2bRAD and ITS2 files
 grep 2bRAD $OUTPUT | cut -f1 -d "," | grep SRR > 2bRAD_$OUTPUT
 grep ITS2 $OUTPUT | cut -f1 -d "," | grep SRR > ITS2_$OUTPUT
