@@ -1,5 +1,4 @@
 # Undergraduate Research Project
-Exploring Lineage-Symbiont Associations in Depth Generalist Coral
 <br>Reprocessing of coral genetic data from Eckert et al. 2025
 <br>Arizona State Unversity, Fall 2025
 <br>Mentored by: Dr. Jessie Ebie / Dr. Abigail Howell
