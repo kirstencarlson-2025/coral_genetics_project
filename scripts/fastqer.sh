@@ -37,5 +37,3 @@ if [ "$SUCCESS" -eq "$TOTAL" ]; then
 else
     echo "Some SRRs failed. Check the log."
 fi
-
-test
