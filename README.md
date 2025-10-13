@@ -7,6 +7,5 @@
 🔹 SLURM and bash scripting on HPC
 <br>🔹 Read alignment
 <br>🔹 Variant calling
-<br>🔹 Data visualization in R
-<br>🔹 Learning cool stuff 
+<br>🔹 Data visualization in R 
 
